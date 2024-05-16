@@ -6,11 +6,13 @@
 <a href="https://linkedin.com/in/fabriziofeitosa" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-fabriziofeitosa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-fabriziofeitosa-7289DA?style=flat&logo=Discord&logoColor=white"/></a>
 
-### Meus conhecimentos
+### 💡 Meus conhecimentos
 
 [![Front-end Skills](https://skillicons.dev/icons?i=next,php,html,css,sass,tailwind,bootstrap,js,ts,ps,illustrator,figma,wordpress,jquery,mysql,vscode,windows,stackoverflow&perline=6)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziofeitosa&hide_progress=true&theme=dracula&locale=pt-br)
+
+### 📈 Estatística
 
 <!--START_SECTION:waka-->
 
