@@ -13,4 +13,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziofeitosa&hide_progress=true&theme=dracula&locale=pt-br)
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   2 hrs 40 mins   ██████████████████████▒░░   89.74 %
+PHP          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+JSON         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
