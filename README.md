@@ -10,8 +10,6 @@
 
 [![Front-end Skills](https://skillicons.dev/icons?i=next,php,html,css,sass,tailwind,bootstrap,js,ts,ps,illustrator,figma,wordpress,jquery,mysql,vscode,windows,stackoverflow&perline=6)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziofeitosa&hide_progress=true&theme=dracula&locale=pt-br)
-
 ### 📈 Estatística
 
 <!--START_SECTION:waka-->
