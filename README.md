@@ -9,17 +9,3 @@
 ### 💡 Meus conhecimentos
 
 [![Front-end Skills](https://skillicons.dev/icons?i=next,php,html,css,sass,tailwind,bootstrap,js,ts,ps,illustrator,figma,wordpress,jquery,mysql,vscode,windows,stackoverflow&perline=6)](https://skillicons.dev)
-
-### 📈 Estatística
-
-<!--START_SECTION:waka-->
-
-```txt
-PHP          2 hrs 10 mins   █████████████████▓░░░░░░░   70.81 %
-CSS          51 mins         ███████░░░░░░░░░░░░░░░░░░   28.15 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
-
-<!--END_SECTION:waka-->
